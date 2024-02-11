@@ -1,2 +1,2 @@
 # portfolio
-I had done this project using css and javascript .
+I had done this project using html,css and javascript .
